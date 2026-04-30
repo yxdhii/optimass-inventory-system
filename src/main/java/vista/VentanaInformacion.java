@@ -96,9 +96,10 @@ public class VentanaInformacion extends VentanaBase1 {
         
         JLabel lblDescripcion = new JLabel(
             "<html><div style='text-align: center; width: 500px; padding: 10px;'>" +
-            "Somos una empresa comprometida con brindar soluciones tecnológicas innovadoras. " +
-            "Nuestro equipo está dedicado a proporcionar productos y servicios de alta calidad " +
-            "que satisfagan las necesidades de nuestros clientes. ¡Gracias por elegirnos!" +
+            "Este sistema fue desarrollado con fines académicos como parte del aprendizaje " +
+            "en programación, bases de datos y diseño de interfaces. " +
+            "Representa el esfuerzo y dedicación aplicados durante el curso " +
+            "de Algoritmos y Estructura de Datos. ¡Gracias por visitar nuestro proyecto!" +        
             "</div></html>"
         );
         lblDescripcion.setFont(new Font("Arial", Font.PLAIN, 14));
@@ -119,7 +120,7 @@ public class VentanaInformacion extends VentanaBase1 {
 
         
         JLabel lblDocente = new JLabel("<html><div style='text-align: center; width: 400px;'><b>Proyecto:</b> Sistema de Control de Inventario</div></html>");
-        JLabel lblGrupo = new JLabel("<html><div style='text-align: center; width: 425px;'><b>Grupo:</b> 04</div></html>");
+        JLabel lblGrupo = new JLabel("<html><div style='text-align: center; width: 425px;'><b>Desarrollado por:</b> Yadhira Saavedra</div></html>");
         JLabel lblActualizacion = new JLabel("<html><div style='text-align: center; width: 410px;'><b>Inicio del proyecto:</b> 01/09/2025</div></html>");
 
         lblDocente.setFont(fontInfo);

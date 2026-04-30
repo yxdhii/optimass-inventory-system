@@ -7,7 +7,7 @@ import java.sql.Connection;
 public class ConexionBD {
     private static final String URL = "jdbc:mysql://localhost:3306/sistema_gestion_db";
     private static final String USUARIO = "root"; 
-    private static final String CONTRASENA = ""; 
+    private static final String CONTRASENA = "yadhira"; 
     
     public static Connection getConnection() {
         Connection con = null;
