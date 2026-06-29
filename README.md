@@ -33,49 +33,23 @@ Como característica diferencial, incorpora **verificación de acceso por correo
 
 ---
 
-## 🖥️ Capturas del sistema
+# 🖥️ Galería del Sistema
 
-<div align="center">
+| 🏠 Menú Principal | 📦 Productos |
+|-------------------|--------------|
+| <img src="assets/menu.png" width="450"/> | <img src="assets/productos.png" width="450"/> |
 
-**Menú Principal**
-![Menu](assets/menu.png)
+| 🍕 Catálogo | 📊 Inventario |
+|-------------|---------------|
+| <img src="assets/catalogo.png" width="450"/> | <img src="assets/inventario.png" width="450"/> |
 
-<br/>
+| 💰 Ventas | 🛒 Compras |
+|-----------|------------|
+| <img src="assets/ventas.png" width="450"/> | <img src="assets/compras.png" width="450"/> |
 
-**Módulo de Productos**
-![Productos](assets/productos.png)
-
-<br/>
-
-**Catálogo de Productos**
-![Catalogo](assets/catalogo.png)
-
-<br/>
-
-**Módulo de Inventario**
-![Inventario](assets/inventario.png)
-
-<br/>
-
-**Módulo de Ventas**
-![Ventas](assets/ventas.png)
-
-<br/>
-
-**Módulo de Compras**
-![Compras](assets/compras.png)
-
-<br/>
-
-**Módulo de Categorías**
-![Categorias](assets/categorias.png)
-
-<br/>
-
-**Módulo de Proveedores**
-![Proveedores](assets/proveedores.png)
-
-</div>
+| 🗂️ Categorías | 🚚 Proveedores |
+|----------------|----------------|
+| <img src="assets/categorias.png" width="450"/> | <img src="assets/proveedores.png" width="450"/> |
 
 ---
 
@@ -151,30 +125,54 @@ Login  →  Restablecer Contraseña
 
 ---
 
-## 🛠️ Stack tecnológico
+# 🛠️ Stack Tecnológico
 
-- **Lenguaje:** Java · Java Swing
-- **Base de datos:** MySQL · MySQL Workbench
-- **Conector:** JDBC
-- **IDE:** Apache NetBeans
-- **Gráficas:** JFreeChart
-- **Arquitectura:** MVC
+<div align="center">
+
+### 💻 Desarrollo
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-4A90E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JFreeChart-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC-8E44AD?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🎓 Contexto académico
 
 > Proyecto desarrollado para el curso de **Algoritmos y Estructura de Datos**  
-> Facultad de Ingeniería — Ingeniería de Sistemas e Informática y Software  
+> Facultad de Ingeniería — Ingeniería de Sistemas e Informática   
 > **Universidad Tecnológica del Perú · 2025**  
-> Docente: Mg. Milton Freddy Amache Sánchez · Grupo 04
+> Docente: Mg. Milton Freddy Amache Sánchez
 
 ---
 
 <div align="center">
 
-Desarrollado por **Yadhira Patricia Saavedra Guadalupe**
+## 👩🏻‍💻 Desarrollado por
 
-*Lima, Perú · 2025*
+### **Yadhira Patricia Saavedra Guadalupe**
+
+Estudiante de **Ingeniería de Sistemas**  
+Universidad Tecnológica del Perú (UTP)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsyxdhi/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white)](https://yadhira-portafolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yxdhii)
+
+<br>
+
+
+© 2025 · Optimass
 
 </div>
