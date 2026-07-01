@@ -173,6 +173,6 @@ Universidad Tecnológica del Perú (UTP)
 <br>
 
 
-© 2025 · Optimass
+© 2025 · Optimass - System
 
 </div>
