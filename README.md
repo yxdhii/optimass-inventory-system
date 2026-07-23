@@ -165,16 +165,30 @@ Login  →  Restablecer Contraseña
 ## 🎓 Contexto académico
 
 > Proyecto desarrollado para el curso de **Algoritmos y Estructura de Datos**  
-> Facultad de Ingeniería — Ingeniería de Sistemas e Informática y Software  
+> Facultad de Ingeniería — Ingeniería de Sistemas e Informática     
 > **Universidad Tecnológica del Perú · 2025**  
-> Docente: Mg. Milton Freddy Amache Sánchez · Grupo 04
+> Docente: Mg. Milton Freddy Amache Sánchez
 
 ---
 
 <div align="center">
 
-Desarrollado por **Yadhira Patricia Saavedra Guadalupe**
+## 👩🏻‍💻 Desarrollado por
 
-*Lima, Perú · 2025*
+### **Yadhira Patricia Saavedra Guadalupe**
+
+Estudiante de **Ingeniería de Sistemas**  
+Universidad Tecnológica del Perú (UTP)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsyxdhi/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white)](https://yadhira-portafolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yxdhii)
+
+<br>
+
+
+© 2025 · Optimass - System
 
 </div>
